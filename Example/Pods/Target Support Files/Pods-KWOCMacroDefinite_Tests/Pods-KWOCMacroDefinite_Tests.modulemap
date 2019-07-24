@@ -1,0 +1,6 @@
+framework module Pods_KWOCMacroDefinite_Tests {
+  umbrella header "Pods-KWOCMacroDefinite_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

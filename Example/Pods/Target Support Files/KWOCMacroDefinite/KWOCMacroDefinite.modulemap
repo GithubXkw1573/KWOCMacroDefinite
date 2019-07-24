@@ -1,0 +1,6 @@
+framework module KWOCMacroDefinite {
+  umbrella header "KWOCMacroDefinite-umbrella.h"
+
+  export *
+  module * { export * }
+}
