@@ -1,6 +1,6 @@
 {
   "name": "KWOCMacroDefinite",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "OC常用宏定义",
   "description": "OC常用宏定义，包括屏幕尺寸，字体大小、十六进制颜色等。",
   "homepage": "https://github.com/GithubXkw1573/KWOCMacroDefinite",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/GithubXkw1573/KWOCMacroDefinite.git",
-    "tag": "0.1.0"
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "8.0"
